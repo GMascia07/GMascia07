@@ -33,7 +33,7 @@
 ### ⚙️ Automação & IA
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 🎨 UI / UX Design
+### 🎨 UX / UI Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
 ---
