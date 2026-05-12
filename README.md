@@ -18,23 +18,33 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Desenvolvimento
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,github" />
+</p>
 
 ### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="48" height="48" style="vertical-align: top; filter: brightness(1.2); margin-left: 5px;" />
+</p>
 
 ### ⚙️ Automação & IA
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+<p align="left">
+  <img 
+    src="https://cdn.simpleicons.org/n8n/EA4B71" 
+    width="48" 
+    height="48"
+  />
+</p>
 
 ### 🎨 UX / UI Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
 ---
 
@@ -55,9 +65,18 @@
 
 ## 📫 Contato
 
-- 📧 Email: gabriel.mascia4@gmail.com  
-- 💼 LinkedIn: [gabriel-mascia](https://www.linkedin.com/in/gabriel-mascia)
+<p align="left">
+  <a href="mailto:gabriel.mascia4@gmail.com">
+    <img 
+      src="https://skillicons.dev/icons?i=gmail" 
+      alt="Gmail"
+    />
+  </a>
 
----
-
-⭐ Sempre em busca de aprendizado e novos desafios!
+  <a href="https://www.linkedin.com/in/gabriel-mascia" target="_blank">
+    <img 
+      src="https://skillicons.dev/icons?i=linkedin" 
+      alt="LinkedIn"
+    />
+  </a>
+</p>
