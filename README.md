@@ -20,7 +20,7 @@
 ### 💻 Desenvolvimento
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,github" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,github" />
 </p>
 
 ### 🗄️ Banco de Dados
